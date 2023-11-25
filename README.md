@@ -16,7 +16,7 @@ A Webpack plugin that output redundant files map for project.
 ### Install
 
 ```bash
-npm i @ignorance/validator --save-dev
+npm i webpack-slim-project-plugin --save-dev
 ```
 
 ### Usage
