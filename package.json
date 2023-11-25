@@ -1,6 +1,6 @@
 {
   "name": "webpack-slim-project-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Webpack plugin that output redundant files map for project",
   "main": "./src/index.js",
   "scripts": {
@@ -18,7 +18,11 @@
     "webpack-slim-project-plugin"
   ],
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/william0119/slim-project-plugin.git"
   },
-  "bugs": "https://github.com/xxx/shang-utils/issues"
+  "bugs": {
+    "url": "https://github.com/william0119/slim-project-plugin/issues"
+  }
+
 }
