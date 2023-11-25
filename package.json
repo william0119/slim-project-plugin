@@ -1,0 +1,24 @@
+{
+  "name": "webpack-slim-project-plugin",
+  "version": "1.0.0",
+  "description": "A Webpack plugin that output redundant files map for project",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "fast-glob": "^3.3.2"
+  },
+  "author": "William",
+  "license": "MIT",
+  "keywords": [
+    "webpack-plugin",
+    "clean-files",
+    "clean-redundant-files-plugin",
+    "webpack-slim-project-plugin"
+  ],
+  "repository": {
+    "type": "git"
+  },
+  "bugs": "https://github.com/xxx/shang-utils/issues"
+}
